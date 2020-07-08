@@ -1,4 +1,4 @@
-# Music_Recommender_system
+# Music Recommender system using ALS Algorithm using Apache Spark and Python
 
 Created a recommender system to recommend new musical artists to a user based on their listening history.
 Performed rating predictions of all artists for that user using ALS algorithm
